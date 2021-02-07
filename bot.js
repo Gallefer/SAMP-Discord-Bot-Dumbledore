@@ -556,10 +556,10 @@ const helpinfo = (msg) => {
 client.on('message', msg => {
 
 	//------------------------------[Medthod 1 For cmds]--------------------------------
-    if (msg.content === 'Que es un Galle?') 
+    if (msg.content === 'Hola') 
     {
 
-        msg.reply(`Galle ${Community_Tag} Bot`);
+        msg.reply(`Hola`);
 
     }
 
