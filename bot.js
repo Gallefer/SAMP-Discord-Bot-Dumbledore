@@ -559,7 +559,7 @@ client.on('message', msg => {
     if (msg.content === 'Galle') 
     {
 
-        msg.reply(`Hola yo soy Galle ${Community_Tag} Bot`);
+        msg.reply(`Galle ${Community_Tag} Bot`);
 
     }
 
