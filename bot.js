@@ -16,8 +16,8 @@ var query = require('samp-query');
 //@audit Settings
 
 const botChar = "/"; // Bot prefix character
-let Samp_IP = "51.161.33.212";
-let Samp_Port = 7777;
+let Samp_IP = "sa-mp.me";
+let Samp_Port = 8814;
 let Community_Tag ="ML";
 
 let userToSubmitApplicationsTo = '710195458680684695';//Default Channel Id for User Applications
